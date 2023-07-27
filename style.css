@@ -207,3 +207,21 @@ body {
         opacity: 1;
     }
 }
+
+@media screen and (max-width:650px) {
+    .home{
+        background: url(Images/walpp.png) no-repeat;
+        width: 223%;
+        height: 204vh;
+    }
+    .profile {
+        height: 413px;
+        width: 338px;
+        margin-left: 24%;
+        margin-top: -77%;
+    }
+    .home-content {
+        margin-top: 42%;
+        margin-left: 13%;
+    }
+}
