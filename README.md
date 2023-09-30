@@ -7,7 +7,7 @@ html,
 css,
 JavaScript
 
-• Screenshot
+• Screenshots of website
 ![image](https://github.com/Ruchita-Patil/Portfolio/assets/96020934/d4ff313d-1fe1-48b5-b5fe-2909492621f5)
 ![image](https://github.com/Ruchita-Patil/Portfolio/assets/96020934/3978c530-9cd8-4beb-96a8-76fb9d4715a7)
 ![image](https://github.com/Ruchita-Patil/Portfolio/assets/96020934/5e6e9587-5a80-4a9a-aa03-c1386a5f0d04)
